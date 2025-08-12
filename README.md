@@ -24,6 +24,9 @@ Here's a walkthrough of implemented features:
 
 <img src='/demo-helloworld.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+You can also access a shorter demo via this gif:
+<img src='/demo-gif.gif' title='Video Walkthrough Gif' width='' alt='Video Walkthrough Gif' />
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
